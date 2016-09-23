@@ -1,5 +1,5 @@
 {
-  "name": "Spin CSS",
+  "name": "spincss",
   "version": "0.0.1",
   "description": "Add the .spin CSS class to any element and it will spin purely using CSS.",
   "main": "spin.css",
