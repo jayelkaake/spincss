@@ -1,0 +1,26 @@
+{
+  "name": "Spin CSS",
+  "version": "0.0.1",
+  "description": "Add the .spin CSS class to any element and it will spin purely using CSS.",
+  "main": "spin.css",
+  "keywords": [
+    "spin",
+    "css",
+    "spinner",
+    "spinning",
+    "rotate",
+    "rotating"
+  ],
+  "authors": [
+    "Jay El-Kaake"
+  ],
+  "license": "MIT",
+  "homepage": "https://www.github.com/jayelkaake/spincss",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
